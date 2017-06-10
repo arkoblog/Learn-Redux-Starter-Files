@@ -1,0 +1,25 @@
+.navbar-default
+.navbar-brand {
+	color: #000;
+}
+
+.navbar-default {
+background-color:#ffffff; 
+border-radius:0;
+border-bottom: 3px solid #fafafa;	
+}
+
+.navbar-header {
+    float: left;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    color:#000000;
+}
+
+.navbar-brand {
+    float: none;
+    font-size: 45px;
+    color: #000000;
+}
+
